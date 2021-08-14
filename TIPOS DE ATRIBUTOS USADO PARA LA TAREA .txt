@@ -1,0 +1,27 @@
+ {  "cod_materia" : "001",
+    "nombre_materia" : "Filosofia Computacional",
+    "profesor" : "Kleber Posligua ",
+    "duracion_a_la_semana" : 2,
+    "fecha_inicio" : "2293-05-20"
+    }
+
+ {  "cod_materia" : "002",
+    "nombre_materia" : "REDES 2",
+    "profesor" : "Wilson Chango",
+    "duracion_a_la_semana" : 4,
+    "fecha_inicio" : "2293-05-20"
+    }
+
+ {  "cod_materia" : "003",
+    "nombre_materia" : "Bases de datos",
+    "profesor" : "Susana Patiño",
+    "duracion_a_la_semana" : 3,
+    "fecha_inicio" : "2293-05-20"
+    }
+
+ {  "cod_materia" : "004",
+    "nombre_materia" : "IOT",
+    "profesor" : "Pablo Pico",
+    "duracion_a_la_semana" : 2,
+    "fecha_inicio" : "2293-05-20"
+    }
